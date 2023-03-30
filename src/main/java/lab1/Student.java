@@ -5,8 +5,8 @@ public class Student {
  public int age;
  public char grade;
 
- public void printStudentinfo(){
-  System.out.println("Student Name:" + this.name + " " + "Age:" + this.age + " " + " class grade" + this.grade);
+ public void printStudentInfo(){
+  System.out.println("Student Name:" + this.name +  " " + " Age:" + this.age + " " + " Class grade:" + this.grade);
  }
 
 }
