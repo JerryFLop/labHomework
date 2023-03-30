@@ -1,1 +1,1 @@
-Notes on chapter 2 & 3:
+ chapter 2 & 3 Notes: Variables always have to have a name and type.
